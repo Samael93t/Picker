@@ -15,7 +15,7 @@ pkg install git
 
 git clone https://github.com/Samael93t/Picker
 
-cd I_Picker
+cd Picker
 
 python3 Ip-Picker.py
 
